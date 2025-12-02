@@ -6,7 +6,7 @@
 
 ----------------------------------------------------
 
-## Ceque je veux aprendre pendant tout ce tant de mettre stocker mon code sur github  
+## Ce que je veux aprendre pendant tout ce tant de mettre stocker mon code sur github  
 de plus de compprendre comment ça fonction
 
 ----------------------
